@@ -1,0 +1,36 @@
+{
+  "name": "angular_starter",
+  "description": "Angular Starter - Fast",
+  "main": "index.js",
+  "authors": [
+    "Maciej Trzciński"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "starter",
+    "angular_starter",
+    "fast",
+    "angular_starter_fast"
+  ],
+  "homepage": "https://github.com/maciektrzcinski/angular_starter",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-animate": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "jquery": "~2.1.4",
+    "animate.css": "~3.4.0",
+    "foundation": "~5.5.3",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
